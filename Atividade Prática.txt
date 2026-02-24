@@ -1,0 +1,40 @@
+Atividade Prática
+
+Contexto: Clínica ou Hospital
+
+2. Defina os Dados
+ 
+ • Dados dos pacientes (nome, CPF, telefone, endereço, histórico médico)
+
+ • Cadastro de médicos e funcionários
+
+ • Agendamentos de consultas e exames
+
+ • Convênios e formas de pagamento
+
+ • Registros de atendimentos realizados
+
+ • Controle financeiro (pagamentos e faturamento)
+ 
+3. Identifique os usuários
+
+ • Recepcionistas -  Para cadastro e agendamento
+
+ • Médicos — histórico dos pacientes
+
+ • Administradores — para relatórios e gestão da clínica
+
+ • Financeiro — para controle de pagamentos e convênios
+
+4. Explique o uso
+
+ • Organizar o cadastro de pacientes e profissionais
+
+ • Facilitar o agendamento de consultas e exames
+
+ • Registrar e consultar histórico médico com rapidez
+
+ • Melhorar o atendimento e reduzir erros
+
+ • Controlar a grana
+

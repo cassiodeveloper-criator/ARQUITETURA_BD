@@ -1,0 +1,51 @@
+Conceitos e SDB
+
+O que são dados?
+ 
+ Dado é qualquer informação bruta que pode ser capturada - como o nome de uma pessoa, um número de telefone, ou uma nota de prova. Pense em dados como pedaços isolados de informação que por si só não contam toda a história.
+
+
+        ------------->                            ------------->                                --------------->
+        Dados                        Organização                         Informação
+Elementos brutos não processados            Processo de estruturação                    Dados com contexto e significado
+                                                                                           
+                                    Classificar,relacionar e ordenar os dados         "Joao, de 17 anos, tirou 8.5 na prova"
+
+
+Os problemas dos Sistemas de Arquivos
+
+Redundância: Mesmos dados armazenados em vários lugares diferentes.
+Inconsistência: Dados duplicados podem ficar desatualizados e conflitantes.
+Acesso Limitado: Difícil compartilhar dados entre diferentes aplicações.
+Baixa Eficiência: Atualizar dados em múltiplos arquivos é lento e propenso a erros.
+
+A evolução do Armazenamento
+
+ Anos 1960: Sistemas de arquivos isolados, cada programa gerencia seus dados
+ Anos 1970-80: Surgimento dos primeiros SGBDs relacionais e padronização
+ Anos 1990-2000: Expansão para web, SGBDs distribuídos e orientados a objetos
+ HOJE: Cloud, Big Data, NoSQL - diversidade de soluções para cada necessidade
+
+Sistema de Banco de Dados
+
+Componentes principais:
+ Banco de Dados: Os dados armazenados(as informações)
+ SGBD: O software que gerencia tudo
+ Usuários: As pessoas que acessam os dados
+ Aplicações: Programas que usam os dados
+
+SGBD
+ O SGBD é o software responsável por criar, gerenciar e proteger o banco de dados. Ele atua como intermediário entre você e os dados, tornando tudo mais fácil e seguro.
+ Armazena: Guarda dados organizadamente.
+ Organiza: Estrutura informações logicamente.
+ Busca: Encontra dados rapidamente.
+ Protege: Garante segurança e privacidade.
+
+🚫 Sem banco de Dados                       🆗 Com Banco de Dados 
+Dados espalhados                          • Centralização de todas as informações
+Informações duplicadas                    • Organização logigica e eficiente
+Dificuldade em encontrar dados            • Busca Rápida e poderosa
+                                             • Segurança com controles de acesso
+                                             • Integridade dos dados garantida
+                                             • Escalabilidade conforme cresce
+
